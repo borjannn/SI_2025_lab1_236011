@@ -1,0 +1,50 @@
+$ git config --global user.name "borjannn"
+
+$ git config --global user.email "dimeskiborjan@gmail.com"
+
+$ mkdir SI_2025_lab1_236011
+
+$ cd SI_2025_lab1_236011/
+
+$ git init
+
+$ git remote add origin https://github.com/borjannn/SI_2025_lab1_236011.git
+
+$ cat README.md
+
+Borjan Dimeski 236011
+
+$ git add README.md
+
+$ git commit -m "Initial commit"
+
+$ git push -u origin master
+
+$ git add SI2025Lab1Main.java
+
+$ git commit -m "Add starter code"
+
+$ git push -u origin master
+
+git pull origin master
+
+napraviv cel Kanban so site tie tasks
+
+odbrav remove given task by name, sort by name i list completed tasks i napraviv soodvetni branches
+
+git fetch origin
+
+git switch na prviot branch
+
+implementirav, savenav, napraviv add i commit i push.
+isto i za vtoriot i za tretiot
+
+vo GitHub napraviv pull requests za trite.
+
+2 od niv odobriv od GitHub so merge pull request
+
+otidoa vo "Done" na kanbanot
+
+napraviv git fetch i git rebase za da se sinhroniziraat promenite lokalno sto gi napraviv na git
+
+posle ova git push origin master pa git merge 3-list-tasks-sorted-by-name

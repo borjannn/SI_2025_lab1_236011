@@ -1,0 +1,16 @@
+*   a04ecb8 Merge branch '3-list-tasks-sorted-by-name' "implemented 3-sort-tasks-by-name"
+|\  
+| * acdf8bc Implemented 3-sort-tasks-by-name
+* | 62a05de Implemented 3-sort-tasks-by-name
+* |   df5341e Merge pull request #11 from borjannn/2-find-all-completed-tasks
+|\ \  
+| * | fe731fd Implemented 2-find-all-completed-tasks
+| |/  
+* |   0ba9b23 Merge pull request #10 from borjannn/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * 6f7029d Implemented 1-remove-a-task-by-name
+|/  
+* eec44ac Add starter code
+* ea8947f Initial commit
